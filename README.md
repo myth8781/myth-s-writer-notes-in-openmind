@@ -1,3 +1,5 @@
+[Myth's Gitbook](https://www.gitbook.com/book/myth8781/myth-s-openmind-writer/details)
+
 # 开智学堂认知写作学课程说明
 
 ## 课程设计
